@@ -13,5 +13,6 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
   - TEGEN.md
+  - index.m3u
 
 theme: jekyll-theme-minimal
